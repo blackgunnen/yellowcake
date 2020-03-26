@@ -2,74 +2,24 @@
 template: HomePage
 slug: ''
 title: TRAVEL and MORE
-featuredImage: 'https://ucarecdn.com/17bf99a1-2ac4-4acf-8051-0239aa69f1f0/'
+featuredImage: 'https://ucarecdn.com/70bec19e-a7d5-4824-be6c-690e95ef25b2/'
 subtitle: ' Welcome to the theory of everything or nothing'
 meta:
   description: ''
-  title: Mã hóa đối xứng AES – Advanced Encryption Standard
+  title: Pleiku - Đà Lạt - Cao nguyên đầy nắng và gió
 ---
-AES là tên viết tắt của cụm từ Advanced Encryption Standard, chuẩn mã hóa dữ liệu cực kì phổ biến hiện nay và được dùng từ các mục đích nhỏ cho tới việc bảo vệ dữ liệu của chính phủ Mỹ.
+## **Pleiku - Đà Lạt - Cao nguyên đầy nắng và gió**
 
+_Nhung Nhẹ Nhàng_  ·Thứ Năm, 2 tháng 1, 2020·
 
+Chuyến xe cuối cùng của năm cũ đã bắt đầu bằng 1 chút hoang mang, nghĩ sẽ rất nhiều việc phải làm, vì đây là lần đầu tiên nó tự đóng thùng xe đạp cho lên máy bay. Vậy rồi từng cái lo được giải quyết, kết lại thành một khoảng thời gian đẹp ở Tây Nguyên!
 
-AES là một kiểu mã hóa đối xứng dạng khối, nghĩa là mỗi khối văn bản có một kích thước nhất định (ở đây là 128 bit) được mã hóa, khác với mã hóa dạng chuỗi khi từng kí tự được mã hóa. Đối xứng nghĩa là khóa để mã hóa và giải mã đều là một.
+Tây Nguyên là 1 vùng đất tuyệt vời cho xe lăn bánh, một trải nghiệm  khác hẳn những nơi mình đã từng đạp xe qua.
 
-Lịch sử của thuật toán mã hóa AES
+\    Ấn tượng đầu tiên là thời tiết đẹp. Chắc cũng do mình tới đúng thời gian đẹp. Khi các vườn cafe đang mùa thu hoạch, dã quỳ nở vàng ươm hai bên đường, thời tiết khô ráo và trong veo (ngược hẳn với không khí lạnh ẩm và bẩn của Hà Nội). Dự định mỗi ngày đạp 100 - 150km, trong đầu tính nếu không đạp nhanh thì không kịp tiến độ, nhưng nếu không dừng lại chụp ảnh thì lại có lỗi với cảnh đẹp quá chừng :)) khổ tâm thực sự :))
 
+\    Ấn tượng thứ hai là con người địa phương, các bác các cô rất tốt và quan tâm nên vừa đạp xe vừa nhận được nhiều lời chúc bình an :)  6h chiều ngày đầu tiên, sau khi đã ăn no ở 1 quán nhỏ ven đường (và cho muỗi của quán hút no máu T.T), mặc dù mình đã khẳng định tối nay sẽ ngủ ở khu vực này thôi, nhưng thấy mình đi 1 mình, bác chủ quán vẫn dặn đi dặn lại rất kỹ, là con đi lên ngay trên kia có nhà nghỉ thì ở lại đó nha, không được đi tối đâu nha <3 Họ quan tâm thực sự, giống như con cháu trong nhà vậy. Hoặc có lẽ đây là điều giản đơn thôi, nhưng sống ở môi trường con người vô cảm với nhau lâu quá nên nhiều khi những quan tâm giản đơn ấy lại gây cảm động bất ngờ ^_^ Đi qua những buổi bình minh trong lành, chỉ nghe tiếng người í ới nói chuyện trên cánh đồng, ngoài đường... mình nghĩ người dân ở đây họ hạnh phúc, không phải sự sung sướng vì có nhiều tiền, mà là sự bằng lòng với cuộc sống hiện tại, và giữ 1 môi trường sống tốt.
 
+Ấn tượng thứ ba là địa hình, mình đã khá coi thường địa hình của Tây Nguyên, cứ tự tin có thể đạp được 90-100km trong nửa ngày để gặp bạn đồng hành là chị Hoàng Anh ở Buôn Mê Thuột rồi cùng ăn trưa. Nhưng kết quả là đến 2h chiều mới gặp được bà chị :)) Quên mất là xe còn thồ 2 sọt đồ lềnh kềnh :)) Phần lớn đường xá đẹp và mịn, nhưng nhiều dốc liên tục ra phết, không phải dốc cao gắt nhưng đạp cứ lì lì cả nửa ngày =)) Cả quãng đường dài mấy ngày lên Đà Lạt chỉ có 2 cái đèo được gọi là đèo, đó là đèo Chuối và đèo Phú Sơn, hai đèo này rất gần nhau và  là khu vực rừng núi thưa vắng người.
 
-AES được phát triển từ cuối những năm 90 với mục đích thay thế cho Data Encryption Standard (DES) do IBM tạo ra đầu những năm 70s đã dần trở nên lỗi thời và thiếu bảo mật ( bị bruteforce dễ dàng khi mà máy tính ngày càng trở nên mạnh mẽ.
-
-
-
-Tiếp theo đó, 15 thuật toán được đề xuất để thay thế cho DES, bắt đầu quy trình 5 năm của chính phủ Mỹ. Thuật toán AES lần đầu được hai nhà mật mã học là Vincent Rijmen và Joan Daemen đề xuất, sau được gọi là “đơn Rijindael”.
-
-
-
-AES là chuẩn mở vì khi đó chuẩn thực sự cũng chưa được xác định. Trong quá trình thiết kế, nó cũng nhận bình luận, góp ý. Nó được Viện tiêu chuẩn và kỹ thuật quốc gia Hoa Kỳ phát triển với mục tiêu dễ dùng cho cả phần cứng và phần mềm. Một số thay đổi về khóa và khối được thực hiện để tăng tính an toàn.
-
-
-
-NSA cũng tham gia xem xét 15 bản đề xuất. Tới tháng 8/1999 chỉ còn 5 thuật toán (Rijndael, Serpent, RC6, Twofish và MARS). Các “ứng viên” được phân tích thêm về độ bảo mật, tính dễ sử dụng, bản quyền, tốc độ, độ chính xác khi mã hóa và giải mã.
-
-
-
-Người chiến thắng sau cùng là Rijndael, sau đó được đưa lên cho chính phủ Mỹ vào năm 2002 và cả NSA cùng các tổ chức khác. Đến giờ, AES vẫn được dùng cho các tài liệu tuyệt mật, được cho là FIPS (Federal Information Processing Standard – tiêu chuẩn xử lý thông tin liên bang). Sau đó nó được dùng trong khối tư nhân, là chuẩn mã hóa phổ biến nhất với mã hóa khóa đối xứng.
-
-AES hoạt động như thế nào?
-
-
-
-AES là kiểu mã hóa khối, mỗi khối kích thước 128 bit. Khóa đối xứng với 3 kích thước là 128, 192 và 256 bit, trong đó 2 kích thước sau được chính phủ Mỹ dùng cho các tài liệu mật cấp cao, được gọi là “Top Secret”.
-
-
-
-Rijndael ban đầu được phép thêm khối và tăng độ dài khóa nhưng chuẩn sau này bị bỏ, giữ chuẩn kích thước như đã nói ở trên. AES là chuẩn mã hóa duy nhất được phát hành rộng rãi được NSA chấp thuận dùng để bảo vệ thông tin chính phủ ở mức cao cấp nhất.
-
-
-
-AES dùng thuật toán mã hóa khối mạng thay thế hoán đổi (SPN – Substitution Permutation Network). Dữ liệu được chuyển thành dạng an toàn trong vài bước, bắt đầu là khối plain text kích thước chuẩn, sau đó chèn vào hàng và sau đó là mã hóa. Mỗi lần đều có các bước thay thế, chuyển đổi, hòa trộn.
-
-
-
-Cũng như 3DES có 3 bước mã hóa, AES cũng có nhiều bước nhưng được thực hiện nhiều hơn, phụ thuộc vào độ dài khóa, với khóa 128 bit là 10 lần, khóa 192 bit là 12 lần và khóa 256 bit là 14 lần.
-
-
-
-Trong quá trình này, khóa mã hóa được tạo và cũng phải có khóa này để giải mã. Nếu không, dữ liệu sẽ chỉ là mớ lộn xộn không thể đọc được. Cả người gửi và người nhận đều phải biết khóa mã hóa và giải mã.
-
-AES cho mọi người
-
-
-
-Ngày nay ai cũng có thể dùng AES, đúng như nguồn gốc mã nguồn mở của nó. Ví dụ như qua trang AES Encryption dữ liệu được đặt vào hộp văn bản, khóa được nhập bên dưới và chọn độ dài khóa, cả 3 độ dài khóa đều được hỗ trợ. Sau đó chọn mã hóa hay giải mã là được. Dù ai cũng có thể dùng AES qua web nhưng giao diện web thiếu an toàn nên khó mà chính phủ có thể sử dụng.
-
-AES và mạng Internet
-
-
-
-Dù ban đầu AES được tạo ra để chính phủ Mỹ bảo mật dữ liệu nhưng nó cũng có thể dùng để chuyển dữ liệu qua mạng an toàn. AES được dùng để chia sẻ tập tin qua kết nối HTTPS, an toàn hơn HTTP, vốn được thiết kế để ngăn tấn công trung gian.
-
-
-
-AES cũng được dùng để mã hóa WiFi trên router, khi kết hợp với giao thức phổ biến WPA2 thì có tên AES/WPA2. Giao thức bảo mật khác được dùng cùng với WPA2 là TKIP cũ hơn AES và được cho là không còn an toàn. AES cũng được dùng để hỗ trợ mã hóa SSL.a description.
+Ấn tượng thứ tư: Đến từ bạn đồng hành :)) Chị Hoàng Anh là một chị gái đến từ thành phố biển Nha Trang. Lần đầu gặp chị ở Ngày hội đạp xe Grand Fondo từ 2015, và lần này có dịp gặp lại. Chị đợi mình ở Buôn Mê Thuột và cả 2 cùng đạp vào Đà Lạt. Một cô gái đáng mến, biết làm nhiều thứ, hay chia sẻ và cực kỳ cực kỳ nhạy cảm :)) Cho dù thế vẫn bị xếp vào thành phần dị biệt ít người đồng cảm, cũng giống mình, đáng yêu vậy mà ko hiểu sao lên mấy cung đạp xe toàn bị ế chả ai thèm đi cùng :))  Ông trời sắp xếp cho 2 đứa đi cùng nhau 1 đoạn đường, ấp nhau 3 đêm :))
